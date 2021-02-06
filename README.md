@@ -3,7 +3,9 @@ Projeto feito para uma escola em linguagem de programação Visual Basic, criado
 
 ------------- | -------------
 PAP.sln       | Abrir o projeto no VS
+------------- | -------------
 PAP           | Projeto essencial para abrir o PAP.sln
+------------- | -------------
 Programas     | Diagnóstico, Downloads, Ferramentas, Outros e ajuda.txt
 ------------- | -------------
 
