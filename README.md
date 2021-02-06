@@ -1,7 +1,7 @@
 # Utilitario-de-Software
 Projeto feito para uma escola em linguagem de programação Visual Basic, criado no Visual Studio 2015. Para mais informações abra o relatório da PAP.
 
-Utilitario de Software.exe | Abrir o projeto no VS
+Utilitario de Software.exe | Abrir o executável (aplicação)
 ------------- | -------------
 PAP.sln | Abrir o projeto no VS
 PAP | Projeto essencial para abrir o PAP.sln
