@@ -9,4 +9,6 @@ Programas | Diagnóstico, Downloads, Ferramentas, Outros e ajuda.txt
 
 A pasta PAP e o ficheiro PAP.sln é o projeto em si feito na aplicação Microsoft Visual Studio 2015 que poderá ser aberto em outras versões do VS.
 
+*Só é necessário instalar o Utilitário de Software.exe e os Programas que serão adiconados na Drive.*
+
 @ César Guimarães
