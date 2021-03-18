@@ -1,0 +1,21 @@
+Sugestões:
+
+Update Release v5.0
+
+(Ajuda)
+
+Acesso negado. O ficheiro ajuda.txt não existe ou o seu nome foi modificado verifique se existe o ficheiro em (Letra da Partição)\Programas\Ajuda.txt
+
+(Página Inicial)
+
+- Conseguir mexer a página inicial da PAP (scroll).
+
+(Ferramentas)
+
+Mudar o aviso para:
+Acesso negado. A localização da ferramenta que pretende abrir foi alterada ou já não existe. Verifique em 'Ajuda' a sua localização.
+
+(Downloads)
+
+Colocar a respetiva localização dos ficheiros.
+Os botões "Requisitos" não funcionam.
