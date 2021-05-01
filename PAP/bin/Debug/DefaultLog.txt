@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------------------------------
+
+Disk    TotalSectors       Cylinders    Heads    Sectors/Track     DIskInfo
+0        1953525168      121601         255                 63           HGST HTS541010A9E680  
+1          30031250        1869         255                 63       SanDisk  Ultra  USB Device
+----------------------------------------------------------------------------------------------------------
+
+-----------------------------begin collect basic volume-----------------------------------
+DriverLetter   FileSystem  StartSector     TotalSectors     ParentDisk: Disk      VolumeLabel
+
+-----------------------------end collect basic volume-----------------------------------
+
+-----------------------------begin collect dynamic volume-----------------------------------
+DriverLetter   FileSystem   DynamicVolumeType   TotalSectors       VolumeLabel      ParentDiskInfo
+
+-----------------------------end collect dynamic volume-------------------------------------
+
+([SYSTEM] | [*] | [FAT32] | [0] M | [0] M | [0]);([] | [C] | [NTFS] | [125424] M | [952962] M | [0]);([] | [*] | [NTFS] | [0] M | [0] M | [0]);([UTILITARIO] | [D] | [FAT32] | [7945] M | [14656] M | [1]);
+
+DiskView Disk Number: 0
+DiskView Disk Number: 0 has 3 child
+DiskView Disk Number: 1
+DiskView Disk Number: 1 has 1 child
+DiskView Disk Number: 0
+DiskView Disk Number: 0 has 3 child
+DiskView Disk Number: 1
+DiskView Disk Number: 1 has 1 child
+CHFSPlusNodeVolume destroy.
