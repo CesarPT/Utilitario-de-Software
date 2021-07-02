@@ -3,7 +3,7 @@ Projeto feito para uma escola em linguagem de programação Visual Basic, criado
 
 Utilitario de Software.exe | Abrir o executável (aplicação)
 ------------- | -------------
-PAP.sln | Abrir o projeto no VS
+PAP.sln | Abrir o projeto no Visual Studio
 PAP | Projeto essencial para abrir o PAP.sln
 Programas | Diagnóstico, Downloads, Ferramentas, Outros e ajuda.txt
 
