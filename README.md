@@ -12,3 +12,8 @@ A pasta PAP e o ficheiro PAP.sln é o projeto feito na aplicação Microsoft Vis
 **Só é necessário instalar o Utilitário de Software.exe e os Programas que estão disponiveis para download no Google Drive.**
 
 @ César Guimarães | 2021
+
+![image](https://user-images.githubusercontent.com/76701595/216409392-69d7152c-d650-4dc8-af43-b345f7d45e7b.png)
+
+![image](https://user-images.githubusercontent.com/76701595/216409441-ba40ae85-ff53-4874-b102-5309ead2da09.png)
+
